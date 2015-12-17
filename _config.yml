@@ -1,0 +1,28 @@
+name: UNBOXINDUSTRIES
+favicon: null
+layout_spectrum: 0.7975196379702538
+typography_spectrum: 0.10783837921917439
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6705432354938239
+  lightness: 0.665445099119097
+  saturation: 0.6951611884869635
+  rhythmicContrast: 0.8426170689053833
+purpose: []
